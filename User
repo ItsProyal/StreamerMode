@@ -1,0 +1,6 @@
+
+
+_G.Name = "Nope"
+_G.ClearCharacter = true
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ItsProyal/StreamerMode/master/Main.lua", true))()
